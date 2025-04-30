@@ -14,11 +14,4 @@ I am part of the **FRC Team 3082** ([organization repository here](https://githu
 
 *(Repo projects coming soon, a lot of these projects I have started but not finished to a state where I feel good about publishing them, I want you guys to see my best work!)*  
 
-## Timeline for projects
-- **December 2024**: Finish up Chicken Planner and revist the old Ultimate Tic Tac Toe AI. While also having fun with Advent Of Code.
-- **January 2024**: Publish the Ultimate Tic Tac Toe AI after I finish training and a slick UI(Maybe in flutter 👀)
-- **Febuary-March**: Begin making a better CPU design and an assembler app for writing the code(Maybe in electron 👀)
-- **This far into the future is a scary place 👻**
-
-
 Feel free to explore my repositories and contact me if you have any questions! 🚀  
