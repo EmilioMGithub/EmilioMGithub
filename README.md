@@ -31,6 +31,7 @@ High school student at Minnetonka, passionate about reinforcement learning, robo
 - Mathematical visualization
 
 📫 emiliomoreno03096@gmail.com
+
 📹 https://www.youtube.com/@AmethystCode
 
 ---
