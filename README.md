@@ -1,17 +1,35 @@
-# Hi there! 👋  
+# Hi, I'm Emilio Moreno 👋
 
-I’m **Emilio Moreno**. I am a high school student passionate about robotics, data science, AI, and computer engineering.  
+High school student at Minnetonka, passionate about reinforcement learning, robotics, and biology.
 
-## Robotics 🛠️  
-I am part of the **FRC Team 3082** ([organization repository here](https://github.com/team3082)), where I’ve contributed to coding our robot. I also serve as the lead developer of **Chicken Planner** ([Chicken Planner Repository](https://github.com/team3082/ChickenPlanner)), an FRC trajectory planner that uses Bézier splines for path planning. Most of my work during the school year will happen there. 
+## 🔬 Research
+**GEAR** (Guided Exploration for Aptamer Retrieval) - *Coming Soon*
+- Self-play neural networks for de novo aptamer design
+- Research collaboration with University of Cincinnati
+- Applying AlphaGo-style algorithms to computational biology
 
-## Interests 🎯  
-- **Data Science**: Doing data science competitions on Kaggle and having fun with deep and reinforcement learning
-    - **AIs Ultimate Tic Tac Toe**: Making way to complicated AIs for Ultimate Tic Tac Toe using reinforcment learning
-- **CPU Design**: Making basic CPUs in logsim, and custom assembly programs for them
-- **Unity Games**: Making silly Unity games to mess around with ideas and concepts
-- **Random Stuff**: If I find something intresting, I am gonna try to code it, and if I like it enough I will put it on here 😉
+## 🚀 Main Projects
 
-*(Repo projects coming soon, a lot of these projects I have started but not finished to a state where I feel good about publishing them, I want you guys to see my best work!)*  
+**Ultimate Tic-Tac-Toe AI** - *Coming Soon*
+- Self-play reinforcement learning with MCTS
+- Tauri desktop app with multiplayer via Firebase
+- ONNX runtime for optimized neural network inference
 
-Feel free to explore my repositories and contact me if you have any questions! 🚀  
+**3D Fractal Explorer** - *Coming Soon*
+- Interactive fractal visualization with real-time rendering
+- Custom UI for defining transformations and reflections
+
+**Feather Flow** - [Repository](https://github.com/team3082/FeatherFlow)
+- Lead developer of FRC trajectory planner for Team 3082
+- Bézier spline-based path planning for autonomous navigation
+
+## 🎯 Interests
+- Reinforcement learning and game AI
+- Robotics and motion planning
+- Computational biology and bioinformatics
+- Mathematical visualization
+
+📫 emiliomoreno03096@gmail.com
+
+---
+*Main repositories coming soon - currently polishing projects to share my best work!*
