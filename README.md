@@ -10,12 +10,13 @@ High school student at Minnetonka, passionate about reinforcement learning, robo
 
 ## 🚀 Main Projects
 
-**Ultimate Tic-Tac-Toe AI** - *Coming Soon*
+**Amethyst Grid** - *Coming Soon*
+- Ultimate Tic Tac Toe App
 - Self-play reinforcement learning with MCTS
 - Tauri desktop app with multiplayer via Firebase
 - ONNX runtime for optimized neural network inference
 
-**3D Fractal Explorer** - *Coming Soon*
+**Amethyst World** - *Coming Soon*
 - Interactive fractal visualization with real-time rendering
 - Custom UI for defining transformations and reflections
 
@@ -30,6 +31,7 @@ High school student at Minnetonka, passionate about reinforcement learning, robo
 - Mathematical visualization
 
 📫 emiliomoreno03096@gmail.com
+📹 https://www.youtube.com/@AmethystCode
 
 ---
 *Main repositories coming soon - currently polishing projects to share my best work!*
