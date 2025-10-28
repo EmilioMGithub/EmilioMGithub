@@ -1,4 +1,4 @@
-# Hi, I'm Emilio Moreno 👋
+# Hi, I'm Emilio Moreno
 
 High school student at Minnetonka, passionate about reinforcement learning, robotics, and biology.
 
